@@ -1,9 +1,9 @@
 # Cobbler 中文文件
 !!! warning
-Important: This document is a translated document, not offical document. If you need offical document, you can click [here](http://cobbler.github.io/).
+    Important: This document is a translated document, not offical document. If you need offical document, you can click [here](http://cobbler.github.io/).
 
 !!! warning
-注意：這個文件是一個隨手翻譯的中文文件，並非官方文件。如果你想看官方文件，你可以點[這裡](http://cobbler.github.io/)！
+    注意：這個文件是一個隨手翻譯的中文文件，並非官方文件。如果你想看官方文件，你可以點[這裡](http://cobbler.github.io/)！
 
 ## 什麼是 Cobbler
 Cobbler 是一個 Linux 安裝伺服器，Cobbler 讓您可以快速建立一個網路安裝環境。Cobbler 結合並自動化許多相關的 Linux 任務，因此您不需要在部署新系統或調整現有系統時，在各種指令和應用程式中來回操作。Cobbler 也可以協助您管理 DNS 和 DHCP、套件管理、電源管理、設定管理編排等等。
