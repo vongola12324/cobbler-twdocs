@@ -21,5 +21,5 @@ Cobbler 是一個 Linux 安裝伺服器，Cobbler 讓您可以快速建立一個
 
 ## 讓我們開始吧！
 - [快速開始手冊](quickstart.md)
-- [完整操作手冊](manual/index.md)
+- [完整操作手冊](manuals/index.md)
 - [開發人員手冊](developer.md)
