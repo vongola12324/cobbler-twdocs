@@ -1,2 +1,11 @@
-extra_css:
-    - css/semantic.min.css
+site_name: Cobbler 中文文件
+repo_url: https://github.com/vongola12324/cobbler-twdocs
+site_author: Vongola
+pages:
+    - '首頁': 'index.md'
+    - '快速開始手冊': 'quickstart.md'
+    - '完整操作手冊': 'manuals/index.md'
+    - '開發人員手冊': 'developer.md'
+markdown_extension:
+    - 'admonition'
+    - 'nl2br'
